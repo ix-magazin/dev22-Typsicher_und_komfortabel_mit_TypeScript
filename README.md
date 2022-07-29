@@ -1,5 +1,7 @@
 # Typsicher_und_komfortabel_mit_TypeScript
-Quellcode zum Artikel von Nils Hartmann, iX-Developer-Sonderheft Moderne Programmiersprachen, 2022
+Quellcode zum Artikel von Nils Hartmann
+
+iX-Developer-Sonderheft __Moderne Programmiersprachen__, 2022
 
 # iX-tract
 
